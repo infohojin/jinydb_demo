@@ -1,0 +1,14 @@
+{
+    "get" : {
+        "method":""
+    },
+    "post": {
+        "method":""
+    },
+    "put": {
+        "method":""
+    },
+    "delete": {
+        "method":""
+    }
+}
